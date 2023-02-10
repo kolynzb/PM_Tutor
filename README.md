@@ -31,3 +31,6 @@
 - Measuring Succes of the project.
 - Identifying Stakeholders.
 - Scoping project tools and resouces.
+
+- [Introduction to Project Management](/Project-Management/0x00-Foundations_of_Project_Mangement/0x00-introduction.md)
+0x01-Project-Initiation/0x00-project-init.md 
