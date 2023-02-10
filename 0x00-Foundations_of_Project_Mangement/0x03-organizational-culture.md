@@ -66,3 +66,6 @@
 - Understand your impact
   - Beware of your role as a change agent
     - _A person from the insife an organizaation who hels the organization transfrom by focusing on improving organizational effectiveness and development_
+
+# Change Management
+- _The process of delivering your complete project and getting people to adopt it_.
