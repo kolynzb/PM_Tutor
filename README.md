@@ -12,9 +12,11 @@
 
 # Contents
 
-### Course 1
+### CO1 - Foundations of Project Mangement
 
-- [Introduction](/Project-Management/0x00-Foundations_of_Project_Mangement/0x00-introduction.md)
+- [Introduction to Project Management](/Project-Management/0x00-Foundations_of_Project_Mangement/0x00-introduction.md)
 - [Jobs](/Project-Management/0x00-Foundations_of_Project_Mangement/0x01-Jobs.md)
 - [Project management Methodologies](/Project-Management/0x00-Foundations_of_Project_Mangement/0x02-PM-Meth.md)
-- [Organizational Structure and Culture](/Project-Management/0x00-Foundations_of_Project_Mangement/0x03-organizational-culture.md)
+- [How Organizational Structure and Culture Impact a Project](/Project-Management/0x00-Foundations_of_Project_Mangement/0x03-organizational-culture.md)
+
+### C02. Project Initiation - Starting a Successful Project

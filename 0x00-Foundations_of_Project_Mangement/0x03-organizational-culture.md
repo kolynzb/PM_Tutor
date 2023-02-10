@@ -84,3 +84,4 @@
   - Communicate clearly your vision.
 - Effective Communication.
   - being transparent, and sharing relevant information.
+
