@@ -40,8 +40,10 @@
 
 - _After determining these you will create a <b>project charter</b>_
 
-- __Project Charter__
-    - A document that clearly defines the project and its goals, and outlines what is needed to accomplish them.
-![project charter](../images/co2/projectcharter.png)
+- **Project Charter** - A document that clearly defines the project and its goals, and outlines what is needed to accomplish them.
+  ![project charter](../images/co2/projectcharter.png)
 
 - it allows you to creaate a framework on how to approach the project.It should the be presented to the stakeholders.
+
+
+
