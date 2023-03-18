@@ -38,11 +38,28 @@
 - Undesrtand whats most important.
 
 ## Launching and Landing a Project.
+
 - Launching is delivering the final result of your project to client or user.
 - Landing is mesasuring the success of your project using the success criteria established at the outset of the project.
 
 ## Definning Success Criteria
+
 - Tells you whether or not the project was successfully.
-- SPecific details of pporjects , deliverables , requirements and exprectations.
+- Specific details of pporjects , deliverables , requirements and exprectations.
 - The standards by which the project will be judged once its been delivered to stakeholders.
-16
+- This also clarifies to the team what they want to accomplish.
+
+### Key Points to Consider when detemining Project success criteria
+
+- Identify the measurable aspects of your project.
+  - Any of the metrics used in the goals.
+- Get Clarity from stakeholders on the project reqiurements and expectations.
+- When determining the success criteria for Office Green project, remember the goal is _to increase the revenue by 5% every year_ and one of the deliverables is to _have a website with a gallery with all the designs that are offered_. Their metrics you can use and they are close to those of your goals.
+- You could consider customer adoption and engagement metrics along with business metrics.
+  - Adoption - how the customer uses and adopts a product or service without any issues _tracking how many users sign up is an adoption metric_
+  - Engagement - How often or meaningful customer interaction and participation is over time. _tracking how many customers renew their plant pal service, post or share feedback_
+
+> Along with each success criteria, Include the methodes for how success will be measured, how often its measured, and wo's responsible for measuring it. Have the responsible stakeholders sign off on this.
+
+- Defining your success criteria should create greater alignment within the team and give everybody better visibilty into how to achieve success.
+
