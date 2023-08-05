@@ -126,4 +126,30 @@
 - To get a good sense of timing, you can connect with teams to discuss the tasks required to reach the milestone, and get their estimates for how long those tasks will take.
 - when determining deadlines for milestones, you'll also want to consider the needs of the stakeholders(_ask them when they expect to receive a deliverable_).
 
-### Create a work break down structure
+### Creating a work break down structure.
+__Work Breakdown Structure (_WBS_)__: 
+- A tool that sorts the milestones and tasks of a project in a hierarchy, in the order they need to be completed.
+- It helps break down the intimidating tasks into more manageable chunks. Big projects like organizing a conference are best approached and seem a lot less daunting when the work required to get there is  broken down step by step with a clear path way from the beginning to the end of the project.
+- They are lots of different ways to create a _WBS_  but one common way is to create a [tree break down structure]()
+- Consider our plant pals project.
+  ![](images/tree-wbs.png)
+  - _1st level_ : Project Name
+  - _2nd level_ : Milestones 
+  - _3rd level_ : Milestone tasks
+  While this is an important step, it is not included in your overall project plan. Instead you put the tasks identified into a spreadsheet or your chosen work management software where you can easily assign owners to a each task.
+  ![](images/wbs-spreadsheet.png)
+After completing a work breakdown structure, you should have
+- A set of discrete project tasks that ladder up to each of your milestones.
+- Team members assigned each task.(_each person should have a clear understanding of the tasks they own and in which order to complete them_)
+How to assign tasks
+- Tasks are typically assigned according to a person's role in the project. _for instance the web dev is assigned a mock up and your assigned to review the mock up_
+- To assign tasks between two or more team members with the same roles, take into consideration each <u>person's familiarity with the tasks at hand</u>.
+- Also consider each <u>teammate's workload</u>(_think about how much time they meant to spend on the project compared to work outside the project they might also be responsible for._).Its important to keep everyone's workloads balanced. You'll have to make sure that a single team is not assigned more work than others and no one is assigned more work than they can handle. (_When people are overloaded quality takes a hit and so does time_)
+- Ensure teammates are clear on their assigned tasks.(_This can be dont in your PM software_).
+	-  Tasks should represent actionable pieces of work needed to complete the project. Make sure to start each task with a verb. (_for example instead of typing "website" make clear the task is to "Mock Up the website" _)
+	- Be sure to add an assignee and a due date to be sure whose doing what and when they should do it.
+	 ![](images/wbs-asana-tasks.png)
+	 - Be sure to include as much detail about the task to avoid confusion.
+  > "When you are planning for projects, its critical to understand what you're building, who your building for, and how long you have to build it?"
+  
+  
